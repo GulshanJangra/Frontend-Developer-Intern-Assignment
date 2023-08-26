@@ -1,0 +1,30 @@
+.drpdwn{
+    border:1px solid #c6c6c6;
+    color: #01818c;
+    border-radius: 9px;
+    text-align: left;
+}
+
+.sbtbtn{
+    text-align: center;
+    box-shadow: 0px 2.0374531745910645px 3.0561792850494385px 0px #00000026;
+    background: #01818C;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 16.3px;
+    line-height: 18.34px;
+}
+
+.sbtbtn:hover{
+    background: #01818C;
+}
+
+.footer{
+    position: absolute;
+    width: 1512px;
+    height: 407.12px;
+    top: 1531px;
+    left: -1px;
+    background-color: #043953;
+
+}

@@ -1,0 +1,407 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:700,500italic,300,500,400|Quicksand:500"); 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.group-1744{
+    align-items: flex-end;
+    align-self: flex-end;
+    background-color: var(--white);
+    box-shadow: 2px 4px 8px #00000040;
+    display: flex;
+    height: 60;
+    flex-shrink: 0;
+}
+
+.logo-final-35-2 {
+    display: flex;
+    height: 45px;
+    width: 97px;
+    margin: 8px 542px 7.08px 720px;
+}
+
+
+.title{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #01818c;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 40px;
+    margin-top: 44px;
+    min-height: 35px;
+    min-width: 289px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-sit-amet{
+    position: absolute;
+    width: 250px;
+    height: 24px;
+    top: 228.34px;
+    left: 182.99px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 20.37px;
+    line-height: 23.88px;
+    color: #455a64;
+}
+
+#radio-button1{
+    position: absolute;
+    accent-color: #01818c;
+    width: 14.26px;
+    height: 14.26px;
+    top: 270.1px;
+    left: 182.99px;
+}
+
+#radio-button2{
+    position: absolute;
+    accent-color: #01818c;
+    width: 14.26px;
+    height: 14.26px;
+    border: 1px;
+    color: #9d9d9d;
+    border: 1.02px solid #9D9D9D;
+    top: 301.69px;
+    left: 182.99px;
+}
+
+#radio-button3{
+    position: absolute;
+    accent-color: #01818c;
+    width: 14.26px;
+    height: 14.26px;
+    top: 335.3px;
+    left: 182.99px;
+}
+#radio-button4{
+    position: absolute;
+    accent-color: #01818c;
+    width: 14.26px;
+    height: 14.26px;
+    top: 368.92px;
+    left: 182.99px;
+}
+
+#radio-button5{
+    position: absolute;
+    accent-color: #01818c;
+    width: 15.28px;
+    height: 15.28px;
+    top: 638.88px;
+    left: 169.75px;
+}
+
+#radio-button6{
+    position: absolute;
+    accent-color: #01818c;
+    width: 15.28px;
+    height: 15.28px;
+    top: 673.52px;
+    left: 169.75px;
+}
+
+#radio-button7{
+    position: absolute;
+    accent-color: #01818c;
+    width: 15.28px;
+    height: 15.28px;
+    top: 707.14px;
+    left: 169.75px;
+}
+
+#radio-button8{
+    position: absolute;
+    accent-color: #01818c;
+    width: 15.28px;
+    height: 15.28px;
+    top: 740.76px;
+    left: 169.75px;
+}
+
+
+#option1{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    size: 16.3px;
+    line-height: 19.1px;
+    color: #01818c;
+    width: 146px;
+    height: 19px;
+    top: 268.07px;
+    left: 211.52px;
+}
+
+#option2{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 146px;
+    height: 19px;
+    top: 301.69px;
+    left: 211.52px;
+    font-weight: 400;
+    size: 16.3px;
+    line-height: 19.1px;
+    color: #455A64;
+}
+
+#option3{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 146px;
+    height: 19px;
+    top: 335.3px;
+    left: 211.52px;
+    font-weight: 400;
+    size: 16.3px;
+    line-height: 19.1px;
+    color: #455A64;
+}
+
+#option4{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 146px;
+    height: 19px;
+    top: 368.92px;
+    left: 211.52px;
+    font-weight: 400;
+    size: 16.3px;
+    line-height: 19.1px;
+    color: #455A64;
+
+}
+
+#option5{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 146px;
+    height: 19px;
+    top: 637.87px;
+    left: 198.27px;
+    font-weight: 400;
+    size: 16.3px;
+    line-height: 19.1px;
+    color: #01818c;
+
+}
+
+#option6{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 146px;
+    height: 19px;
+    top: 671.48px;
+    left: 198.27px;
+    font-weight: 400;
+    size: 16.3px;
+    line-height: 19.1px;
+    color: #455A64;
+
+}
+
+#option7{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 146px;
+    height: 19px;
+    top: 705.1px;
+    left: 198.27px;
+    font-weight: 400;
+    size: 16.3px;
+    line-height: 19.1px;
+    color: #455A64;
+
+}
+
+#option8{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 146px;
+    height: 19px;
+    top: 738.72px;
+    left: 198.27px;
+    font-weight: 400;
+    size: 16.3px;
+    line-height: 19.1px;
+    color: #455A64;
+
+}
+
+.Lorem-ipsum-dolor-sit-amet2{
+    position: absolute;
+    width: 250px;
+    height: 24px;
+    top: 442.27px;
+    left: 169.75px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 20.37px;
+    color: #455a64;
+    line-height: 23.88px;
+}
+
+.drpdwn {
+    position: absolute;
+    width: 862.86px;
+    height: 42.79px;
+    top: 320.91px;
+    left: 169.75px;
+} 
+
+.lorem-ipsum-dolor-sit-amet3{
+    position: absolute;
+    min-width: 250px;
+    min-height: 24px;
+    top: 598.13px;
+    left: 169.75px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 20.37px;
+    line-height: 23.88px;
+    color: #455a64;
+}
+
+.sbtbtn{
+    position: absolute;
+    width: 138.42px;
+    height: 42.79px;
+    top: 793.73px;
+    left: 696px;
+    border-radius: 4px;
+    padding: 16px 39px 16px 39px;
+    gap: 10.19;
+
+}
+
+.section2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #01818c;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 40px;
+    margin-top: 755px;
+    min-height: 33px;
+    min-width: 275px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-sit-amet4{
+    position: absolute;
+    width: 701.61px;
+    height: 65px;
+    top: 1028px;
+    left: 421.2px;
+    border-radius: 6px;
+    background-color: #f4fbff;
+}
+
+.lorem1{
+    position: absolute;
+    width: 275.36px;
+    height: 24px;
+    top: 21px;
+    left: 87.95px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 20.37px;
+    line-height: 23.88px;
+    color: #455A64;
+}
+
+.vector-97{
+    position: absolute;
+    top: 27px;
+    left: 632.55px;
+}
+
+.lorem-ipsum-dolor-sit-amet5{
+    position: absolute;
+    width: 701.61px;
+    height: 65px;
+    top: 1122px;
+    left: 421.2px;
+    border-radius: 6px;
+    background-color: #f4fbff;
+}
+
+.lorem2{
+    position: absolute;
+    width: 275.36px;
+    height: 24px;
+    top: 21px;
+    left: 87.95px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 20.37px;
+    line-height: 23.88px;
+    color: #455A64;
+}
+
+.vector-98{
+    position: absolute;
+    top: 27px;
+    left: 632.55px;
+}
+
+.lorem-ipsum-dolor-sit-amet6{
+    position: absolute;
+    width: 701.61px;
+    height: 65px;
+    top: 1220px;
+    left: 421.2px;
+    border-radius: 6px;
+    background-color: #f4fbff;
+}
+
+.lorem3{
+    position: absolute;
+    width: 275.36px;
+    height: 24px;
+    top: 21px;
+    left: 87.95px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 20.37px;
+    line-height: 23.88px;
+    color: #455A64;
+}
+
+.vector-99{
+    position: absolute;
+    top: 27px;
+    left: 632.55px;
+}
+
+.section3{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #01818c;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 587px;
+    margin-top: 410px;
+    min-height: 33px;
+    min-width: 275px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.frame-1957{
+    margin-left: 591px;
+    margin-top: 366px;
+    width: 395.33px;
+    height: 192.34px;
+}
+
+.footimg{
+    margin-left: 46%;
+    margin-top: 12%;
+}
